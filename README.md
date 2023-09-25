@@ -1,5 +1,5 @@
 
-**# Vehicle Safety System: Drowsiness Detection
+# Vehicle Safety System: Drowsiness Detection
 **This repository contains a project focused on enhancing vehicle safety through the implementation of a driver drowsiness detection system. The system actively tracks and analyzes the driver’s face and eye movements in real-time, enabling the calculation of a drowsiness index to enhance accident prevention.
 
 ## Key Features <br >
