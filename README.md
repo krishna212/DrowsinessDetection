@@ -9,4 +9,6 @@ This repository contains a project focused on enhancing vehicle safety through t
 **Sobel Edge Detection:** Used for detecting the edges of the driver’s face and eyes.<br >
 **Viola-Jones Algorithm:** Used for real-time face detection.<br >
 **K-Means Clustering:** Used for identifying whether the driver’s eyes and mouth are open or closed.<br><br>
-This project demonstrates how image processing algorithms can enhance vehicle safety by preventing accidents caused by driver drowsiness.<br >
+This project demonstrates how image processing algorithms can enhance vehicle safety by preventing accidents caused by driver drowsiness.
+
+Authors of this Project are Krishna Sai, Ajith Chowdary, and Mohith Kumar.<br >
