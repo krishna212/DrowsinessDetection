@@ -11,4 +11,4 @@ This repository contains a project focused on enhancing vehicle safety through t
 **K-Means Clustering:** Used for identifying whether the driver’s eyes and mouth are open or closed.<br><br>
 This project demonstrates how image processing algorithms can enhance vehicle safety by preventing accidents caused by driver drowsiness.
 
-Authors of this Project are Krishna Sai, Ajith Chowdary, and Mohith Kumar.<br >
+Authors of this Project: Krishna Sai, Ajith Chowdary, and Mohith Kumar.<br >
